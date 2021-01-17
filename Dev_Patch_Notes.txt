@@ -1,0 +1,128 @@
+Alpha_v1.0
+
+-Game has been released for "friends & family" test.
+-No lore or typo corrections were made.
+
+Alpha_v1.01
+
+-Opening scene has been added. (Paul)
+-Start game menu picture updated.
+-Start game music changed.
+
+States:
+-Poison is now automatically removed at the end of combat.
+
+Enemies & Dungeons:
+-Dungeon random encounter rate has been decreased from 30 to 25.
+-Bat HP has been lowered from 350 to 200.
+-Spider HP has been lowered from 550 to 250.
+-Spider's Venomite Spit's potency has been lowered from 9 to 7.
+
+Core:
+-Yanfly ItemCore script disabled.
+
+World:
+-Guard at entrance and Tutor event has been changed from Player Touch to Action Button.
+-Solider talking about "food" items added near dungeon entrance.
+-Shop added near dungeon entrance.
+-Tutor battle now awards 1000G upon victory.
+
+Black Mage:
+-Black Mage no longer have access to Shatter (spell). // Was added for testing.
+
+Alpha_v1.02
+
+-Opening has been re-worked.
+-Ending scene has been re-worked.
+-Introduction on key configuration.
+
+Dungeon:
+-Random encounter rate has been lowered from 25 steps to 40.
+
+Combat:
+-Attack command overhauled: a.atk * 1.3 * (a.level * 0.5) / 2 * 0.5 [party members]
+-Attack command overhauled: a.atk * 1.8 * (a.atk * 0.5) / b.def * 0.5 [enemy]
+
+Enemy:
+-Trainer HP has been decreased from 600 to 300.
+-Trainer ATK has been decreased from 90 to 20.
+-Trainer EXP value has been increased from 0 to 75.
+-Trainer now drops "Tailisman"
+-Trainer now drops "Worn Talisman"
+-Trainer received a new collapse effect.
+
+-Bat HP decreased from 200 to 150.
+-Bat ATK decreased from 110 to 25.
+-Bat EXP value increased from 0 to 48.
+-Bat Bite ability re-designed: new formula is a.atk * 1.8 * (a.atk * 0.5) / b.def * 0.5 * 4
+-Bat Bite potency reduced from 8 to 4.
+
+-Spider HP decreased from 250 to 160.
+-Spider ATK decreased from 110 to 25.
+-Spider EXP value increased from 0 to 52.
+-Spider Venomous Spit re-designed: a.atk * 1.8 * (a.atk * 0.5) / b.def * 0.5 * 2.2
+-Spider Venomous Spit potency reduced from 7 to 2.
+
+-Orc Boss ATK reduced from 145 to 48.
+-Orc Boss Strike ability removed.
+-Orc Boss gained new ability: Axe Strike (a.atk * 1.8 * (a.atk * 0.5) / b.def * 0.5 * 2.2
+-Orc Boss EXP value increased from 275 to 325.
+
+-Earth Titan ATK decreased from 180 to 52.
+-Earth Titan Strike ability removed.
+-Earth Titan new ability: Axe Strike.
+-Earth Titan: Enrage Attack has been removed.
+-Earth Titan EXP value has been increased from 0 to 500.
+
+-Ancient Specimen EXP value has been increased from 0 to 1800.
+
+Actors:
+-Players now begin at level 8, down from 10.
+
+Classes:
+
+Black Mage
+-Blizzard MP cost increased from 12 to 16.
+
+Warrior:
+-Strike TP cost has been increased to 25, up from 10.
+-Warrior now naturally regenerates 10 TP per turn.
+
+Thief:
+-Stab TP cost has been increased to 30, up from 10.
+-Thief now naturally regenerates 25 TP per turn.
+
+Alpha_v1.2
+
+-Opening scenes has been updated.
+-Ending scenes has been updated.
+
+Maps:
+-Final Room (alpha) has been re-designed.
+-Music volume has been adjusted to 65%.
+-Labyrinth has been re-designed.
+
+Actors:
+-Party members received new icons.
+
+Enemies:
+-Orc Boss has been removed from the game.
+-Orc Boss has been replaced with Cerberus Boss.
+-Axe Strike has been replaced by Bash.
+
+Items:
+-Potion potency has been increased from 30 to 40.
+-Magic Water potency has been increased from 20 to 25.
+
+Alpha_v1.2c
+
+Dungeon:
+-Secret room return bug resolved.
+
+Enemies:
+-Bat's Agility reduced from 28 to 25.
+-Bat's EXP increased from 48 to 55.
+-Spider's Agility decreased from 25 to 22.
+-Spider's EXP increased from 55 to 60.
+-Odds of running into 2 spiders and 1 bat reduced.
+-Ancient Specimen's Agility reduced from 15 to 14.

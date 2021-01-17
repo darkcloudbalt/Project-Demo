@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Dungeon Labrynth","order":1,"parentId":0,"scrollX":1622,"scrollY":932},
+{"id":2,"expanded":true,"name":"Armory","order":2,"parentId":1,"scrollX":1638,"scrollY":932},
+{"id":3,"expanded":false,"name":"Training area 1","order":3,"parentId":2,"scrollX":1638,"scrollY":932},
+{"id":4,"expanded":true,"name":"Main Area","order":9,"parentId":1,"scrollX":1638,"scrollY":932},
+{"id":5,"expanded":false,"name":"Secret Room","order":4,"parentId":1,"scrollX":1638,"scrollY":932},
+{"id":6,"expanded":true,"name":"Final boss","order":5,"parentId":1,"scrollX":1086.6666666666667,"scrollY":614.6666666666666},
+{"id":7,"expanded":true,"name":"MAP007","order":6,"parentId":6,"scrollX":1638,"scrollY":932},
+{"id":8,"expanded":true,"name":"MAP008","order":7,"parentId":7,"scrollX":1638,"scrollY":932},
+{"id":9,"expanded":true,"name":"Opening Scene","order":10,"parentId":4,"scrollX":1638,"scrollY":932},
+{"id":10,"expanded":false,"name":"Opening scene 2","order":11,"parentId":9,"scrollX":1638,"scrollY":932},
+null,
+{"id":12,"expanded":true,"name":"Final boss.2","order":8,"parentId":6,"scrollX":1638,"scrollY":932}
+]
