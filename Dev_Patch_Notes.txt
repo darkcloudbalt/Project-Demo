@@ -126,3 +126,26 @@ Enemies:
 -Spider's EXP increased from 55 to 60.
 -Odds of running into 2 spiders and 1 bat reduced.
 -Ancient Specimen's Agility reduced from 15 to 14.
+
+Alpha_v1.3a
+
+-Resolved some text that trailed off window screen.
+-Resolved bug that prevented player from returning into the labyrinth.
+-Added a warning when trying to leave secret room.
+-Included a little more flavor for secret weapons.
+
+Bugs:
+-Cutscene after Titan is bugged. (Crystal spawns at player location and gets stuck moving)
+
+Classes:
+Warrior:
+-Battle and Guard Stance included for Raf.
+
+Mage:
+-Fixed a bug where Sleep counter was not ticking.
+
+Items:
+-Potion and Magic Water tooltip updated to include combat only.
+-Potion and Magic Water is now instant cast.
+
+
