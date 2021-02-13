@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"list":[{"code":129,"indent":0,"parameters":[6,1,false]},{"code":129,"indent":0,"parameters":[9,0,false]},{"code":311,"indent":0,"parameters":[0,9,0,0,9999,false]},{"code":312,"indent":0,"parameters":[0,9,0,0,999]},{"code":326,"indent":0,"parameters":[0,9,0,0,100]},{"code":0,"indent":0,"parameters":[]}],"name":"Summon ","switchId":3,"trigger":1},
-{"id":2,"list":[{"code":129,"indent":0,"parameters":[9,1,false]},{"code":129,"indent":0,"parameters":[6,0,false]},{"code":113,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"De-summon","switchId":3,"trigger":2},
+{"id":1,"list":[{"code":129,"indent":0,"parameters":[6,1,false]},{"code":129,"indent":0,"parameters":[9,0,false]},{"code":313,"indent":0,"parameters":[0,9,1,1]},{"code":311,"indent":0,"parameters":[0,9,0,0,9999,false]},{"code":312,"indent":0,"parameters":[0,9,0,0,999]},{"code":326,"indent":0,"parameters":[0,9,0,0,100]},{"code":0,"indent":0,"parameters":[]}],"name":"Summon ","switchId":3,"trigger":0},
+{"id":2,"list":[{"code":129,"indent":0,"parameters":[9,1,false]},{"code":129,"indent":0,"parameters":[6,0,false]},{"code":0,"indent":0,"parameters":[]}],"name":"De-summon","switchId":3,"trigger":2},
 {"id":3,"list":[{"code":111,"indent":0,"parameters":[4,6,0]},{"code":111,"indent":1,"parameters":[4,6,6,1]},{"code":117,"indent":2,"parameters":[2]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Summon Dead","switchId":3,"trigger":2},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
